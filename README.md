@@ -1,5 +1,5 @@
 # WorldTrotter
-IOS Training: 
+## IOS Training
 - views & view hierarchy
 - view controllers
 - programmatic views
